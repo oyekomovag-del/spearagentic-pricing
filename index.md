@@ -11,4 +11,4 @@
 **Cancellation:** Cancel anytime; effective next billing cycle.  
 **Contact:** support@spearagentic.ai
 
-_Last updated: Oct 26, 2025._
+_Last updated: Dec 9, 2025._
