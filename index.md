@@ -4,7 +4,7 @@
 
 **What counts as a seat:** A named Zendesk Support agent with the SPEAR Agentic app enabled.
 
-**Billing & proration:** Billed monthly [in advance]; seats added mid-cycle are [prorated daily / not prorated].
+**Billing & proration:** Billing & proration: Billed monthly in advance; seats added mid-cycle are prorated daily.
 
 **Minimums:** None.  
 **Taxes & currency:** Taxes/VAT may apply; pricing in USD.  
