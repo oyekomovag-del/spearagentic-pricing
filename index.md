@@ -1,6 +1,6 @@
 # SPEAR Agentic AI — Additional Fees
 
-**Price:** $50 per agent seat per month.
+**Price:** $25 per agent seat per month.
 
 **What counts as a seat:** A named Zendesk Support agent with the SPEAR Agentic app enabled.
 
